@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\bin\Debug\net7.0\Fahrzeughandel.exe
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\bin\Debug\net7.0\Fahrzeughandel.deps.json
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\bin\Debug\net7.0\Fahrzeughandel.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\bin\Debug\net7.0\Fahrzeughandel.dll
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\bin\Debug\net7.0\Fahrzeughandel.pdb
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\Fahrzeughandel.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\Fahrzeughandel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\Fahrzeughandel.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\Fahrzeughandel.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\Fahrzeughandel.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\Fahrzeughandel.dll
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\refint\Fahrzeughandel.dll
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\Fahrzeughandel.pdb
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\Fahrzeughandel.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Fahrzeughandel\obj\Debug\net7.0\ref\Fahrzeughandel.dll
