@@ -1,6 +1,7 @@
 # Fahrzeughandel
-A C# (CSharp) Console App exercise-project, done during my classes for IT Specialist in Application Development by Lutz & Grub Academy. The program simulates a vehicle dealership, with test drive.
 
-*To run the Console App program directly, launch "Fahrzeughandel.exe" located in "bin/Debug/net7.0".*
+A C# (CSharp) Console App exercise-project, done during my classes for IT Specialist in Application Development by Lutz + Grub Academy. The project simulates a small vehicle dealership where vehicles can be registered and assigned test drives. Test drives can result in vehicle sales, depending on a randomized condition, and sold vehicles are removed from the dealership’s list.
 
-*Note: german language used.*
+To run the Console App program directly, launch `"Fahrzeughandel.exe"` located in `"bin/Debug/net7.0"`.
+
+**Note: german language used.**
