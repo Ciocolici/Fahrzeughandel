@@ -64,6 +64,8 @@ namespace Fahrzeughandel
                 Console.WriteLine();
             }
 
+            Console.ReadKey();
+
         }
     }
 }
